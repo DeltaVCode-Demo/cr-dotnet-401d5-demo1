@@ -6,10 +6,9 @@ namespace MyFirstConsole
     {
         static void Main(string[] args)
         {
-            int number = "hi";
-            
-          
-            Console.WriteLine("Hello World!");
+            int number = 42;
+
+            Console.WriteLine("Hello World! {0} is a good number", number);
         }
     }
 }
