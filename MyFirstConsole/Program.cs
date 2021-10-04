@@ -6,6 +6,9 @@ namespace MyFirstConsole
     {
         static void Main(string[] args)
         {
+            int number = "hi";
+            
+          
             Console.WriteLine("Hello World!");
         }
     }
